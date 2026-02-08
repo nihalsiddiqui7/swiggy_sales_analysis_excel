@@ -1,5 +1,8 @@
 # Swiggy Sales Performance Dashboard 📊
 
+![Swiggy Dashboard](assets/swiggy_dashboard.png)
+
+
 ## Key Insights & Business Recommendations
 
 ---
